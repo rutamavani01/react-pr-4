@@ -1,0 +1,30 @@
+.btn1{
+ padding: 0px 8px;
+ border: 2px solid green;
+ color: green;
+ font-size: 20px;
+ text-align: center;border-radius: 5px;
+ background-color: aliceblue;
+}
+hr{
+    width: 0%;
+}
+td{
+    line-height: 30px;
+    padding:7px;
+}
+.btn2{
+    padding: 1px 10px;
+    color: red;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+.icon{
+    margin-right: 4px;
+}
+.span{
+    margin-left: 10px !important;
+}
+button{
+    margin: 10px !important;
+}
